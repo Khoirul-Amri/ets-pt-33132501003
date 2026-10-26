@@ -1,0 +1,7 @@
+Nama: Khoirul Amri
+NRP: 33132501003
+
+Penjelasan Tiga Wilayah Kerja Git:
+1. Working tree: Wilayah direktori kerja di komputer lokal tempat berkas dibuat, dilihat, dan dimodifikasi langsung.
+2. Staging area: Wilayah penampungan sementara untuk menandai dan menyiapkan daftar perubahan berkas sebelum dimasukkan ke dalam commit.
+3. Repository: Basis data tempat Git menyimpan seluruh riwayat commit dan versi kode secara permanen.
